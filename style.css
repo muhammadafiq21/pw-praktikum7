@@ -1,0 +1,39 @@
+.form-select {
+  margin: 12px;
+}
+
+.container {
+  margin: 20px auto;
+  padding: 10px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  font-family: Helvetica;
+  font-weight: bold;
+  text-align: center;
+  margin: auto;
+  background-color: aquamarine;
+}
+
+body {
+  height: 100vh;
+}
+
+.col {
+  text-align: center;
+}
+
+#teks {
+  font-family: Helvetica;
+}
+
+.dark-mode {
+  background-color: #191919;
+  color: #fff;
+}
